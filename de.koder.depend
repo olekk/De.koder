@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1545741294 source:c:\users\olek\documents\cpp projects\de.koder\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<vector>
+	<string>
+	<time.h>
+	<stdlib.h>
+
